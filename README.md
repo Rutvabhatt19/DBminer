@@ -10,7 +10,7 @@
 <p>The <strong>DBminer</strong> app allows users to fetch quotes by category from an API. When offline, it provides quotes from a local JSON file. Users can bookmark their favorite quotes, set them as wallpapers, and customize the app's theme for a personalized experience.</p>
 
 <hr>
-![WhatsApp Image 2024-09-27 at 12 48 42](https://github.com/user-attachments/assets/b1d5e76d-baa1-406c-8758-9bc88493fca7)
+
 
 <h2>✨ Features</h2>
 <ul>
@@ -41,8 +41,9 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/85504568-81f2-484b-8be1-36f1234f5c2d" alt="Quote Fetching Screen" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e" alt="Detail Screen<" width="250"></td>
-       <td><img src="https://github.com/user-attachments/assets/b1d5e76d-baa1-406c-8758-9bc88493fca7" alt="Quote Fetching frome json" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/87414833-3b52-4f76-8271-2314cde3ecbe" alt="Detail json Screen" width="250"></td>
+       <td><img src="https://github.com/user-attachments/assets/87414833-3b52-4f76-8271-2314cde3ecbe" alt="Quote Fetching frome json" width="250"></td>
+       <td><img src="https://github.com/user-attachments/assets/b1d5e76d-baa1-406c-8758-9bc88493fca7" alt="Detail json Screen" width="250"></td>
+
   </tr>
   <tr>
     <td align="center">Quote Fetching Screen</td>
@@ -52,9 +53,7 @@
   </tr>
 </table>
 
-<hr>![WhatsApp Image 2024-09-27 at 12 48 42 (1)](https://github.com/user-attachments/assets/87414833-3b52-4f76-8271-2314cde3ecbe)
-
-![WhatsApp Image 2024-09-27 at 12 48 42 (2)](https://github.com/user-attachments/assets/2f45c3c0-e770-4689-b8ba-df3cd7e0d8e9)
+<hr>
 
 <h2>🛠️ Technologies Used</h2>
 <ul>
@@ -63,11 +62,7 @@
     <li><strong>JSON Serialization</strong>: To handle data storage and retrieval from JSON files.</li>
 </ul>
 
-<hr>![WhatsApp Image 2024-09-27 at 12 48 41](https://github.com/user-attachments/assets/85504568-81f2-484b-8be1-36f1234f5c2d)
-
-![WhatsApp Image 2024-09-27 at 12 48 42 (3)](https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e)
-
-![WhatsApp Image 2024-09-27 at 12 48 42 (3)](https://github.com/user-attachments/assets/c04ad448-55ad-4f0b-8222-792c75af8095)
+<hr>
 
 
 https://github.com/Rutvabhatt19/DBminer/assets/118719070/829190d6-9ba3-4a5a-aa0d-78ed9f4b453e
