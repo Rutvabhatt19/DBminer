@@ -1,4 +1,4 @@
-<h1>💎 DBminer - Quote Fetching App</h1>
+<h1>💎Quote Fetching App</h1>
 
 <p><strong>A Flutter project that fetches quotes from an API categorized by themes, with offline support and customization options.</strong></p>
 
