@@ -38,12 +38,16 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c04ad448-55ad-4f0b-8222-792c75af8095" alt="Quote Fetching Screen" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e" alt="Bookmark Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/85504568-81f2-484b-8be1-36f1234f5c2d" alt="Quote Fetching Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e" alt="Detail Screen<" width="250"></td>
+       <td><img src="https://github.com/user-attachments/assets/85504568-81f2-484b-8be1-36f1234f5c2d" alt="Quote Fetching frome json" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e" alt="Detail json Screen" width="250"></td>
   </tr>
   <tr>
     <td align="center">Quote Fetching Screen</td>
     <td align="center">Detail Screen</td>
+      <td align="center">Quote Fetching frome json</td>
+    <td align="center">Detail json Screen</td>
   </tr>
 </table>
 
@@ -56,7 +60,8 @@
     <li><strong>JSON Serialization</strong>: To handle data storage and retrieval from JSON files.</li>
 </ul>
 
-<hr>
+<hr>![WhatsApp Image 2024-09-27 at 12 48 41](https://github.com/user-attachments/assets/85504568-81f2-484b-8be1-36f1234f5c2d)
+
 ![WhatsApp Image 2024-09-27 at 12 48 42 (3)](https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e)
 
 ![WhatsApp Image 2024-09-27 at 12 48 42 (3)](https://github.com/user-attachments/assets/c04ad448-55ad-4f0b-8222-792c75af8095)
