@@ -38,12 +38,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Rutvabhatt19/DBminer/assets/118719070/829190d6-9ba3-4a5a-aa0d-78ed9f4b453e" alt="Quote Fetching Screen" width="250"></td>
-    <td><img src="https://github.com/Rutvabhatt19/DBminer/assets/118719070/611d1df6-5fba-4bea-aec5-f9b5ef958a78" alt="Bookmark Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c04ad448-55ad-4f0b-8222-792c75af8095" alt="Quote Fetching Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e" alt="Bookmark Screen" width="250"></td>
   </tr>
   <tr>
     <td align="center">Quote Fetching Screen</td>
-    <td align="center">Bookmark Screen</td>
+    <td align="center">Detail Screen</td>
   </tr>
 </table>
 
@@ -57,7 +57,9 @@
 </ul>
 
 <hr>
+![WhatsApp Image 2024-09-27 at 12 48 42 (3)](https://github.com/user-attachments/assets/40fac397-eede-43cf-8a17-7decc634198e)
 
+![WhatsApp Image 2024-09-27 at 12 48 42 (3)](https://github.com/user-attachments/assets/c04ad448-55ad-4f0b-8222-792c75af8095)
 
 
 https://github.com/Rutvabhatt19/DBminer/assets/118719070/829190d6-9ba3-4a5a-aa0d-78ed9f4b453e
