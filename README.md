@@ -66,6 +66,9 @@
 
 <h2>🎬 Demo</h2>
 <p>Check out the app in action:</p> 
+
+
+
 https://github.com/Rutvabhatt19/DBminer/assets/118719070/829190d6-9ba3-4a5a-aa0d-78ed9f4b453e
 
 
